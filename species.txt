@@ -1,0 +1,10 @@
+cat 
+dog 
+snake 
+hamster 
+kitten 
+puppy 
+wolf 
+fox 
+dragon 
+rat 
